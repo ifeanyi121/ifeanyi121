@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hey there! 👋
 
-I'm [Ifeanyi](https://www.linkedin.com/in/obi2), a software engineer and data scientist.
+I'm [Ifeanyi](https://www.linkedin.com/in/obi2), a computer engineer and data scientist.
 
 I build things that solve real problems from edge AI systems to browser extensions.
 
